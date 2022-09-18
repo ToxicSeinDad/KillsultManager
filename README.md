@@ -19,3 +19,6 @@ If you find any Bugs pls report they to Bluescreen#6974
 # Dependencies
 -Guna.UI2.WinForms(https://gunaui.com)
 -Costura.Fody (https://github.com/Fody/Costura)
+
+# Help
+if you have any problems dm Bluescreen#6974 on Discord
