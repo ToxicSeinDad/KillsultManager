@@ -1,0 +1,14 @@
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\bin\Release\KillsultManager.exe.config
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\bin\Release\KillsultManager.exe
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\bin\Release\KillsultManager.pdb
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.Form1.resources
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.Properties.Resources.resources
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.GenerateResource.cache
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.Fody.CopyLocal.cache
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.csproj.CopyComplete
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.exe
+C:\Users\fabia\source\repos\KillsultManager\KillsultManager\obj\Release\KillsultManager.pdb
